@@ -14,8 +14,8 @@ The code on Github has been updated since December 2017. The commercial version 
 2. Framework optimization and performance improvement
 3. Compatibility of mobile phone system and APP has been greatly improved
 4. Run Google services perfectly
-5. Compatibility with the latest Android P (9.0)
-Support running 64-bit App
+5. Compatibility with the latest Android Q (10.0)
+6. Support running 64-bit App
 7. Java Hook that supports Dalvik and Art (API and Xposed)
 8. Add positioning simulation code
 9. Add the machine changing code
@@ -25,19 +25,48 @@ Support running 64-bit App
 Authorization Note
 ------------------
 
-Luohe Technology has set up companies in Shenzhen and Shandong. From 2015 to 2018, it applied for many VirtualApp intellectual property rights, which are protected by the Intellectual Property Law of the People's Republic of China. When you need to use the VirtualApp code on Github, please purchase the commercial license. After obtaining the commercial license, you will receive the full source code of the commercial version of VirtualApp provided by us. Dozens of authorized customers pay for the use of VirtualApp commercial code, and the number of APPs that integrate VirtualApp code starts more than 200 million times a day. Thousands of Android engineers provide us with user feedback in different scenarios, and VirtualApp commercial version code has become increasingly sophisticated through the continuous efforts of our technical team to optimize. After you get the authorization, you will become one of them and enjoy the fruits of continuous iteration and improvement. And we can cooperate with our authorized customers in operation, technology and business. 
+Luohe Technology has set up companies in Shanghai, Shenzhen and Shandong. From 2015 to 2018, it applied for many VirtualApp intellectual property rights, which are protected by the Intellectual Property Law of the People's Republic of China. When you need to use the VirtualApp code on Github, please purchase the commercial license. After obtaining the commercial license, you will receive the full source code of the commercial version of VirtualApp provided by us. Dozens of authorized customers pay for the use of VirtualApp commercial code, and the number of APPs that integrate VirtualApp code starts more than 200 million times a day. Thousands of Android engineers provide us with user feedback in different scenarios, and VirtualApp commercial version code has become increasingly sophisticated through the continuous efforts of our technical team to optimize. After you get the authorization, you will become one of them and enjoy the fruits of continuous iteration and improvement. And we can cooperate with our authorized customers in operation, technology and business. 
 
 
 Person in charge: General Zhang<br/>
 Mobile: +86 1303217777 7<br/>
 Wechat: 10890<br/>
-Company email: Lody@aluohe.com
+Company email: zl@aluohe.com
 
 
 Strictness Disclaimer
 ---------------------
 
 If you use VirtualApp for internal use, commercial profit or upload to the application market without authorization, we will directly collect evidence and report to the police (copyright infringement) or prosecute, which will cause criminal liability and legal proceedings to your company and affect your company's goodwill and investment. Buying a commercial license saves you a lot of development, testing, and refining time, allowing you more time to innovate and monetize. 
+
+
+
+**The updating contents of commercial version code from December 13, 2018 to June 13, 2019**
+
+206. Preliminary support for pure 64-bit mode to meet the requirements of the Google Market<br/>
+205. Preliminary support for Android Q beta4<br/>
+204. Fix install of Huolala<br/>
+203. Fix check logic for 64bit apk<br/>
+202. Support NetworkSecurityConfig<br/>
+201. Rewrite Component State Manager<br/>
+200. Optimaize compatibility of MIUI/EMUI ContentProvider<br/>
+199. Fix StorageStats Hook<br/>
+198. Fix login of Kuaishou<br/>
+197. Fix support for some plugin frameworks(Small, Atlas)<br/>
+196. Fix login of Facebook<br/>
+195. Fix so load error of some app download from Google Play(COC)<br/>
+194. Fix suppport for split apk<br/>
+193. Fix crash of Youtube<br/>
+192. Fix crash of Youku<br/>
+191. Fix conflict of broadcast namespace<br/>
+190. Add a new policy to bypass Hidden Policy API above Android P<br/>
+189. Pre support for Android Q(beta1)<br/>
+188. Fix access to SD Card in some huawei devices<br/>
+187. Fix some launch process failure<br/>
+186. Fix get native symbol failure in some 4.4 devices<br/>
+185. Fix got package name failure by WebView in some devices<br/>
+184. Fix detail of service<br/>
+183. Optimize launch speed<br/>
 
 The updating contents of commercial version code from January 1, 2018 to December 13, 2018.
 
